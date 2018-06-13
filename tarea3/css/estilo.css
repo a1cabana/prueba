@@ -1,0 +1,46 @@
+body {
+	font-weight: bold;
+	background-color: white; 
+	text-align: justify;
+	color: green;
+}
+h1 {
+	text-transform:capitalize;
+	font-weight: bold;
+	text-decoration:underline;
+	color: blue;
+	text-align: center;
+	}
+
+h2	{
+	text-transform:capitalize;
+	font-weight: bold;
+	font-style:italic;
+	color: black;
+	text-align: left;
+
+}
+
+
+.articulo{
+	border-width:5px;
+   border-color:blue;
+   border-style:solid;
+}
+#video{
+
+	text-align: center;
+}
+
+
+
+a {text-decoration: none;}
+
+
+
+a:link {color: black;}
+a:visited { 
+	text-decoration: underline;
+	color: orange;}
+a:hover {color: brown;}
+a:active {color: gray;
